@@ -1,7 +1,7 @@
 # NounPlurals
 
 ## DISCLAIMER
-***This list was generated indiscriminately from [Wiktionary](wiktionary.org)'s database. As a result, it contains heavy profanity, rarely-used or outdated plural forms, words and phrases that are debateably nouns, and inaccuracies.***
+***This list was generated indiscriminately from [Wiktionary](wiktionary.org)'s database. As a result, it contains heavy profanity, rarely-used or outdated plural forms, words and phrases that are debatably nouns, and inaccuracies.***
 
 Also, it's not sorted. Sorry.
 
